@@ -1,6 +1,5 @@
 import random
 
-
 def dice_roll(num_of_dices):
     dices = []
     for i in range(num_of_dices):
